@@ -90,6 +90,7 @@ Wrote to [some-file-system-folder]/package.json:
 
 $ npm install express
 $ npm install body-parser 
+$ npm install request
 
 ```
 
@@ -103,4 +104,5 @@ Check the browser at: http://localhost:3000
 
 fillout the form - and click submit button
 
+In the response you should be getting the entire response from an API
 
