@@ -50,13 +50,21 @@ app.post("/send", (req, res) => {
 
 });
 ```
+In order to run the example **clone the repo**:
+
+```
+$ git clone https://github.com/blumareks/nodejs-clouddemo.git 
+$ cd nodejs-clouddemo
+```
 
 In order to create the example run the following commands (in terminal on MacOS monterey):
+ - And in case you do not have a node installed run the install:
+
 ```bash
 $ brew install node
 ```
 
-start here if you have node installed
+- (Continue from previous step) Start here if you have node installed:
 ```bash
 $ node -v
 v17.8.0
