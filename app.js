@@ -29,10 +29,10 @@ app.post("/send", (req, res) => {
   //const query = params.query;
   //const bearerToken = params.token; // ... obtain bearer token value ...
     
-    
+  //update the <some-api-link> below
   var options = {
       'method': 'POST',
-      'url': 'https://some-api-link',
+      'url': 'https://<some-api-link>',
       'headers': {
         'Content-Type': 'application/json'
       },

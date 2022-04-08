@@ -93,6 +93,7 @@ $ npm install body-parser
 $ npm install request
 
 ```
+You need to update the address of the REST API in app.js. Update the `<some-api-link>` in the code  (line 35) with the real server location.
 
 Now you can run the app: 
 
